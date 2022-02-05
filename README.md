@@ -5,15 +5,15 @@
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### THIS IS NIKITA
 
-Final year IT undergraduate.Pursuing b.tech from MUZAFFARPUR INSTITUTE OF TECHNOLOGY.
+Pursuing b.tech from MUZAFFARPUR INSTITUTE OF TECHNOLOGY.
 Highly driven IT undergraduate, seeking Internship/full-time opportunities to work as a
 dynamic individual using my technical and analytical skills to help the company achieve
 business goals while sticking to mission, vision, and values
+- 📫 Reach me:nikitariya786@gmail.com
 
 
 - An IT undergraduate, looking for Internship to enhance the skills in software engineering .
 - Python is something I love. Django is what I use to build. JS,HTML and CSS are obviously my buddy.
-- 📫 Reach me:nikitariya786@gmail.com
 - Programming: C, C++,Python
 -Database skill - MySql, MongoDB, Oracle, SQL server
 - Libraries: Bootstrap4, NumPy, Matplotlib, pandas, jQuery
