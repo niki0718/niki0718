@@ -6,7 +6,7 @@
 ### THIS IS NIKITA
 
 Currently working in HCL as software Developer .Completed b.tech from MUZAFFARPUR INSTITUTE OF TECHNOLOGY.
-Highly driven IT undergraduate, seeking Internship/full-time opportunities to work as a
+Highly driven IT undergraduate, seeking better full-time opportunities to work as a
 dynamic individual using my technical and analytical skills to help the company achieve
 business goals while sticking to mission, vision, and values
 - 📫 Reach me:nikitariya786@gmail.com
