@@ -15,7 +15,7 @@ I'm pursuing an **M.Tech in Computer Science and Engineering at IIT Hyderabad** 
 - 🔬 **Researching** privacy-preserving blockchain redaction: authorized deletion of sensitive data without breaking chain integrity or auditability
 - 🧠 **Building** a Large Language Model from scratch in PyTorch
 - 💼 **Previously** built REST APIs, scheduled scoring pipelines and event-processing workflows at HCLTech (2022 – 2025)
-- 🎓 **GATE CSE 2025:** AIR 1545 · B.Tech in IT, Muzaffarpur Institute of Technology
+- 🎓 **GATE CSE 2025:** AIR 1545 
 
 ---
 
